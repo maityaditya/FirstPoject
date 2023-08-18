@@ -1,0 +1,27 @@
+#header{
+    text-align: center;
+}
+
+#mainbody{
+    height: 200px;
+    width: 570px;
+    margin: 0% auto;
+}
+
+#outerdiv{
+    height: 600px;
+    width: 600px;
+    margin: 0% auto;
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.body{
+    background-color: wheat;
+}
+
+#navbar{
+    background-color: wheat;
+}
